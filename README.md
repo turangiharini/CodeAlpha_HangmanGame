@@ -19,3 +19,28 @@ The Hangman Game is a classic word-guessing puzzle where the player tries to unc
 6. Win by guessing the full word before attempts run out.
 
 ## Example Gameplay
+Welcome to Hangman!
+Guess the word: _ _ _ _ _ _
+You have 6 incorrect guesses allowed.
+Enter a letter: p
+Good job! 'p' is in the word.
+Word: p _ _ _ _ _
+Used letters: p
+...
+🎉 Congratulations! You guessed the word: python
+
+## Concepts Used
+- **Random module** for word selection
+- **While loop** for continuous gameplay
+- **If-else conditions** for checking guesses
+- **Strings and lists** for word handling
+- **Input/Output** for user interaction
+
+## Future Enhancements
+- Add ASCII art for the hangman figure.
+- Expand the word list.
+- Include difficulty levels.
+
+---
+
+This project is beginner-friendly and demonstrates fundamental programming concepts in Python while keeping the gameplay fun and interactive.
